@@ -23,6 +23,7 @@ This script automates the discovery and reporting of S3 buckets across multiple 
 - Python 3.x
 - boto3 and botocore (`pip install boto3`)
 - AWS CLI profiles properly configured under your user account
+- 'credentials' file updated with creds for AWS profiles required
 
 ### Usage
 
